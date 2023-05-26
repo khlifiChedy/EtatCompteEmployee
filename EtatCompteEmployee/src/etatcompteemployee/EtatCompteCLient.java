@@ -11,7 +11,7 @@ import net.sf.json.JSONObject;
  *
  * @author Lenovo
  */
-public class EtatCompteCLient {
+/**public class EtatCompteCLient {
 
     public static double MontantRegulier(JSONObject employee, JSONObject intervention) {
         Double montantRegulier = 0.0;
@@ -103,3 +103,5 @@ public class EtatCompteCLient {
     
     
 }
+* 
+* /
